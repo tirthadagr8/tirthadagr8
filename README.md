@@ -9,7 +9,7 @@
     </a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthadagr8" alt="tirthadagr8" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthadagr8&no-bg=true" alt="tirthadagr8" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tirthadagr8" target="blank"><img src="https://img.shields.io/twitter/follow/tirthadagr8?logo=twitter&style=for-the-badge" alt="tirthadagr8" /></a> </p>
 
