@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tirthadagr8&label=Profile%20views&color=0e75b6&style=flat" alt="tirthadagr8" /> </p>
 
+<p align="center">
+    <a href="https://github.com/tirthadagr8/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tirthankar Ghosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tirthadagr8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthadagr8" alt="tirthadagr8" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tirthadagr8" target="blank"><img src="https://img.shields.io/twitter/follow/tirthadagr8?logo=twitter&style=for-the-badge" alt="tirthadagr8" /></a> </p>
@@ -28,8 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthadagr8&theme=great-gatsby&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tirthadagr8&show_icons=true&count_private=true&theme=great-gatsby" alt="tirthadagr8" /></p>
-<p align="center">
-    <a href="https://github.com/tirthadagr8/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tirthankar Ghosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tirthadagr8&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
