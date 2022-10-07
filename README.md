@@ -9,6 +9,8 @@
     </a>
 </p>
 
+[![Tirthadagr8's Holopin board](https://holopin.io/api/user/board?user=tirthadagr8)](https://holopin.io/@tirthadagr8)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tirthadagr8&no-bg=true" alt="tirthadagr8" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tirthadagr8" target="blank"><img src="https://img.shields.io/twitter/follow/tirthadagr8?logo=twitter&style=for-the-badge" alt="tirthadagr8" /></a> </p>
